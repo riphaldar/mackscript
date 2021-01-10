@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there, I'm mack -  [mackscript] 👋
 
-<!--
-**mackscript/mackscript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m Student
+- 🌱 I’m currently learning Javascript
+- 🥅 2021 Goals: build more Project 
+- ⚡ Fun fact: i love travel and car  ❤😗🚗
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+
+
+
+
+
+[twitter]: https://twitter.com/mackscript
+[instagram]: https://instagram.com/mackscript
+

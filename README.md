@@ -5,7 +5,7 @@
 
 - 🔭 I’m Student
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **angular**
 
 - 🥅 2021 Goals: **build more Project**
 
@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/riphaldar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="riphaldar" height="30" width="40" /></a>
-<a href="https://fb.com/riphaldar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="riphaldar" height="30" width="40" /></a>
+<a href="https://fb.com/riphaldar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ripxhaldar" height="30" width="40" /></a>
 <a href="https://instagram.com/riphaldar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="riphaldar" height="30" width="40" /></a>
 </p>
 

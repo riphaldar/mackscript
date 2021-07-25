@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **build more website responsive**
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Next js**
 
 - 👨‍💻 All of my projects are available at [https://riponhaldar.netlify.app/](https://riponhaldar.netlify.app/)
 
